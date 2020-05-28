@@ -15,5 +15,13 @@
     "uniqid": "^5.2.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambrosio/homework-11.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adambrosio/homework-11/issues"
+  },
+  "homepage": "https://github.com/adambrosio/homework-11#readme"
 }
